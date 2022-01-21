@@ -1,0 +1,33 @@
+.vines {
+    height: 50px;
+    background-color: rgb(79, 120, 118);
+    color: white;
+  }
+
+  .unchha {
+    justify-content: center;
+  }
+  .abcd-underline {
+    text-decoration: underline;
+  }
+  .font-1 {
+    font-family: cursive;
+  }
+  .bgforsecond {
+    background-color: rgb(247, 246, 242);
+  }
+  .colorofSign {
+    color: rgb(79, 153, 170);
+  }
+  .icon-colorAA {
+    color: rgb(204, 204, 226);
+  }
+ .hoverClr a:hover{
+
+text-decoration: underline;
+
+  }
+  img{
+    height: 100%;
+    width: 100%;
+  }
